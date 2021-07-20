@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am currently pursuing a PhD degree in particle phyiscs.
+  My research involves analyzing petabtes of collider data 
+  taken by the BELLE detector to measure the properties of the 
+  fundamental particles. 
+- 🌱 I am familar with modern web backend frameworks: Flask, DJango,
+  express(nodejs), spring boot(java). 
+- 👯 I am experienced with common machine learning models including 
+  boosted decision tress and NN-based models.
+- 🤔 I’m looking for a DS/SDE internship for summer 2022.
+
+### Selective projects
+
+#### [Wallstreetbets telemetry](https://github.com/ch2ohch2oh/wallst_telemetry_public)
+- A web application for real-time monitoring and analytics of 
+  the comments from r/wallstreetbets and other stock related subreddits.
+- Source code not public due to security reasons.
+
+#### [Mini-Spring](https://github.com/ch2ohch2oh/mini-spring)
+- A minimal IoC container implemented in Java as a clone 
+  of the Java Spring framework.
