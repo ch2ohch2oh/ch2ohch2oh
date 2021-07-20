@@ -20,10 +20,11 @@ Here are some ideas to get you started:
   taken by the BELLE detector to measure the properties of the 
   fundamental particles. 
 - 🌱 I am familar with modern web backend frameworks: Flask, DJango,
-  express(nodejs), spring boot(java). 
+  express(nodejs), spring boot(java). I have experience with building
+  web frontend with React, Bootstrap and jQuery.
 - 👯 I am experienced with common machine learning models including 
   boosted decision tress and NN-based models.
-- 🤔 I’m looking for a DS/SDE internship for summer 2022.
+- 🤔 I am looking for a DS/SDE internship for summer 2022.
 
 ### Selective projects
 
