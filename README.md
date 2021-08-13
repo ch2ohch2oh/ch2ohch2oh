@@ -28,11 +28,16 @@ Here are some ideas to get you started:
 
 ### Selective projects
 
-#### [Wallstreetbets telemetry](https://github.com/ch2ohch2oh/wallst_telemetry_public)
+#### [r/Wallstreetbets real-time comment analysis](https://github.com/ch2ohch2oh/wallst_telemetry_public)
 - A web application for real-time monitoring and analytics of 
   the comments from r/wallstreetbets and other stock related subreddits.
 - Source code not public due to security reasons.
 
+### [Leetcode tracker](https://github.com/ch2ohch2oh/leettracker)
+- A full-stack web application for tracking Leetcode user submissions
+  and generating user statistics. 
+- Technology involved: nodejs, express, graphql, react, material-ui, docker.
+
 #### [Mini-Spring](https://github.com/ch2ohch2oh/mini-spring)
-- A minimal IoC container implemented in Java as a clone 
+- A minimal ioc container implemented in Java as a clone 
   of the Java Spring framework.
