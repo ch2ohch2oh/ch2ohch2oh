@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   the comments from r/wallstreetbets and other stock related subreddits.
 - Source code not public due to security reasons.
 
-### [Leetcode tracker](https://github.com/ch2ohch2oh/leettracker)
+#### [Leetcode tracker](https://github.com/ch2ohch2oh/leettracker)
 - A full-stack web application for tracking Leetcode user submissions
   and generating user statistics. 
 - Technology involved: nodejs, express, graphql, mongodb, react, material-ui, docker, asynchronous programming.
