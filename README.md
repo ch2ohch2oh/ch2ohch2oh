@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### [Leetcode tracker](https://github.com/ch2ohch2oh/leettracker)
 - A full-stack web application for tracking Leetcode user submissions
   and generating user statistics. 
-- Technology involved: nodejs, express, graphql, react, material-ui, docker.
+- Technology involved: nodejs, express, graphql, mongodb, react, material-ui, docker, asynchronous programming.
 
 #### [Mini-Spring](https://github.com/ch2ohch2oh/mini-spring)
 - A minimal ioc container implemented in Java as a clone 
